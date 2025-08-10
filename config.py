@@ -52,7 +52,7 @@ UPSTREAM_REPO = getenv(
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
-    "GIT_TOKEN", None
+    "GIT_TOKEN", "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"
 )  # ----------------------------------------------------------------
 # -------------------------------------------------------------------
 
